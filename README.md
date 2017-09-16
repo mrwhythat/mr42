@@ -1,0 +1,3 @@
+# mr42 ASCII-art project
+
+Once I though I would be a designer, but then I found Linux...
